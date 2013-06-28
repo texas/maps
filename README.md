@@ -11,11 +11,11 @@ GitHub will only preview GeoJSON files that are less than 10 MB. Instead of forc
 Sources
 -------
 
-*[2010 TIGER/Line® Shapefiles (U.S. Census Bureau)] (http://www.census.gov/cgi-bin/geo/shapefiles2010/main)*
+**[2010 TIGER/Line® Shapefiles (U.S. Census Bureau)] (http://www.census.gov/cgi-bin/geo/shapefiles2010/main)**
 - counties_2010
 - tracts_2010
 
-*[Texas Redistricting (Texas Legislative Council)] (http://www.tlc.state.tx.us/redist/redist.html)
+**[Texas Redistricting (Texas Legislative Council)] (http://www.tlc.state.tx.us/redist/redist.html)**
 - txhouse_districts
 - txsenate_districts
 - uscongress_districts
