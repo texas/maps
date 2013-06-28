@@ -20,3 +20,7 @@ Sources
 - txsenate_districts
 - uscongress_districts
 - txsboe_districts
+
+**[School District Locator (Texas Education Agency)] (http://ritter.tea.state.tx.us/SDL/sdldownload.html)**
+- schools_2012
+- schooldistricts_2012_2013
