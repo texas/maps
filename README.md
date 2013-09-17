@@ -29,3 +29,8 @@ Sources
 
 - state_parks_polygons
 - state_parks_points
+
+
+**Random Files**
+
+- `cities`: manually geocoded
