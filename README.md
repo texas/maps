@@ -24,6 +24,7 @@ Sources
 **[School District Locator (Texas Education Agency)] (http://ritter.tea.state.tx.us/SDL/sdldownload.html)**
 - schools_2012
 - schooldistricts_2012_2013
+- tea_regions_2007
 
 **[GIS Lab Data Downloads (Texas Parks & Wildlife)] (http://www.tpwd.state.tx.us/landwater/land/maps/gis/data_downloads/)**
 
